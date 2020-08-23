@@ -2,7 +2,7 @@ byte program[256];
 byte iptr;
 
 byte frame_counter;
-byte frame_overflow;
+byte buttcrack_overflow;
 
 # https://github.com/JeffMo1/lips#instructions
 
